@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/gammon-dev/ERP%20and%20QS/_apis/build/status/paulyiu-gammon.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/gammon-dev/ERP%20and%20QS/_build/latest?definitionId=20&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
